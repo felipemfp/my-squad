@@ -1,0 +1,28 @@
+{
+    "england": [{
+        "title": "Barclays Premier League",
+        "level": 1,
+        "teams": [
+            "Leicester", "Arsenal", "Spurs",
+            "Man City", "Man United", "Southampton",
+            "West Ham", "Liverpool", "Stoke",
+            "Chelsea", "Everton", "Swansea",
+            "Watford", "West Brom", "Crystal Palace",
+            "Bournemouth", "Sunderland", "Newcastle",
+            "Norwich", "Aston Villa"
+        ]
+    }],
+    "brazil": [{
+        "title": "Brasileirão A",
+        "level": 1,
+        "teams": [
+            "Palmeiras", "Santa Cruz", "Fluminense",
+            "Coritiba", "Atlético-MG", "Flamengo",
+            "São Paulo", "Corinthians", "Figueirense",
+            "Internacional", "Grêmio", "Ponte Preta",
+            "América-MG", "Botafogo", "Chapecoense",
+            "Cruzeiro", "Santos", "Sport",
+            "Vitória", "Atlético-PR"
+        ]
+    }]
+}

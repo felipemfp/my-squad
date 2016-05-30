@@ -108,3 +108,4 @@ class League(object):
                 % (i+1, team.team.name, team.played, team.won, team.drawn,
             team.lost, team.goals_for, team.goals_against,
             team.goal_difference(), team.points())
+        return table
